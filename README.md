@@ -2,7 +2,6 @@
 
 This Python tool provides a robust and customizable pipeline for analyzing transmission spectra of optical ring resonators. It extracts resonance wavelengths, calculates Q-factors, free spectral range (FSR), and group index by fitting dips in the transmission spectrum to Lorentzian functions.
 
-![Example Fit](example_fit.png)
 
 ---
 
