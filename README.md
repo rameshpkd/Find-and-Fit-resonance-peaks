@@ -64,11 +64,12 @@ from spectrum_analyzer import SpectrumNormalizer
 ## 📂 Folder Structure
 
 ```
-📁 spectrum-analyzer/
+📁 Find-and-Fit-resonance-peaks/
 ├── spectrum_analyzer.py      # Main analysis code
 ├── example_fit.png           # Example output plot
 ├── README.md                 # This file
-└── your_data.wad             # Example input file (not tracked)
+└── example1.txt
+|__ example2.txt             # Example input file (not tracked)
 ```
 
 ---
